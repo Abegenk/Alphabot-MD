@@ -1291,7 +1291,7 @@ break
                     alpha.sendButMessage(from, 'GROUP SETTING', `© ${ownername}`, [{buttonId: 'group open', buttonText: {displayText: 'Open'}, type: 1},{buttonId: 'group close', buttonText: {displayText: 'Close'}, type: 1}], {quoted: fgif})
                 }
             break 
-			case '.afk': {
+			case 'afk': {
 if (!m.isGroup) return reply(lang.groupOnly())
 let user = global.db.data.users[m.sender]
 user.afkTime = + new Date

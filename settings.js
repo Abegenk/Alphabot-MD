@@ -41,7 +41,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '.'
-global.mess = {
+global.mess = { . 
     sukses: '🤗Done, Oke Bree~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
