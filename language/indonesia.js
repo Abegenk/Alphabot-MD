@@ -85,7 +85,7 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai kak ${pushname} 👋 selamat ${salam} , 
+	return`Hai Dek ${pushname} 👋 selamat ${salam} , 
 saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
 lapor owner agar segera di perbaiki 🙏      
@@ -924,7 +924,7 @@ exports.database = (prefix) =>{
 ╰❒ ${prefix}delmsg [nama file]
 `}
 
-exports.group = (prefix) =>.
+exports.group = (prefix) =>{
 	return`╭─❒ 「 Group 」 
 ├ ${prefix}listonline
 ├ ${prefix}sider
