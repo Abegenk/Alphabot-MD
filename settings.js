@@ -3,12 +3,12 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	alfa: 'https://api-alphabot.herokuapp.com',
+	alfa: 'https://api-mlsidbot.herokuapp.com',
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://api-alphabot.herokuapp.com': 'Alphabot',
+	'https://api-mlsidbot.herokuapp.com': 'MlsidBot',
 }
 
 // setting 
@@ -20,9 +20,9 @@ global.available = false //status online (online)
 // Other
 global.botname = "MlsidBotོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ A b e e yོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
-global.youtube = "https://youtube.com/channel/UCR6V0iYPJk6wMCErXmcZNEQ" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
+global.myweb ="https://api-MlsidBot.herokuapp.com/" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/AFKSQUAD" //bebas asal jan hapus
+global.github = "https://github.com/abegenk" //bebas
 global.email = "abilstoy@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6289510437264" // nomor wa kalian
